@@ -1,2 +1,2 @@
 # COLORIFY
-Color the pics
+Color the pics with deep learning based model
